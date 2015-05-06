@@ -1,2 +1,9 @@
 *.swp
 *~
+crop/*
+crop2/*
+deskew/*
+deskew_one_by_one
+test/*
+trim/*
+
